@@ -1,4 +1,4 @@
-package org.example;
+package eu.singledev.patterns;
 
 /**
  * The {@code BillPughSingleton} class demonstrates the Singleton Design Pattern

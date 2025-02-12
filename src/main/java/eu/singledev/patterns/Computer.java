@@ -1,4 +1,4 @@
-package org.example;
+package eu.singledev.patterns;
 
 /**
  * Abstract class representing a generic Computer.
